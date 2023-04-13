@@ -1,0 +1,30 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipulcn/messfrontend.git"
+  },
+  "keywords": [
+    "Mess",
+    "bachelor",
+    "marn",
+    "fullstack"
+  ],
+  "author": "bipul chandra dev nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipulcn/messfrontend/issues"
+  },
+  "homepage": "https://github.com/bipulcn/messfrontend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
